@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Bangla:ital@0;1&display=swap');
+
+.changa {
+  font-family: "Changa", sans-serif;
+}
+
+.my-bangla {
+  font-family: 'Tiro Bangla', serif;
+}
+
